@@ -31,7 +31,7 @@ function App() {
               </div>
             </div>
           </div>
-        </div>
+        </div> 
       </BrowserRouter>
     </UserProvider>
   );
